@@ -1,0 +1,13 @@
+{
+	"FileVersion": 3,
+	"EngineAssociation": "{05025874-47FF-58EE-2B91-60B396C7FC65}",
+	"Category": "",
+	"Description": "",
+	"Modules": [
+		{
+			"Name": "RobotSim",
+			"Type": "Runtime",
+			"LoadingPhase": "Default"
+		}
+	]
+}
